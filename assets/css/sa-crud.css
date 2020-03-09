@@ -1,0 +1,31 @@
+.form-wraper {
+    width: 50%;
+    height: auto;
+    background: #fdfdfd;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 2px #c5c4c4;
+    margin-bottom: 20px;
+}
+
+.dp-person {
+    width: 90% !important;
+    border-radius: 0px;
+}
+
+.form-wraper h2 {
+    margin: 0;
+    text-align: center;
+}
+
+.form-content {
+    padding: 20px 70px;
+}
+
+.form-content form input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+}
